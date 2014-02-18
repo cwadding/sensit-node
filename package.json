@@ -1,0 +1,23 @@
+{
+  "name": "sensit-client",
+  "version": "0.0.1",
+  "description": "Official Sensit API library client for node.js",
+  "author": "Christopher Waddington <cwadding@gmail.com> (http://github.com/cwadding)",
+  "homepage": "https://sensit.com",
+  "keywords": ["sensit", "api", "client", "library"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cwadding/sensit-node"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "request": "2.x.x"
+  },
+  "bugs": {
+    "url": "https://github.com/cwadding/sensit-node/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
