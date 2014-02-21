@@ -1,6 +1,6 @@
 {
   "name": "sensit-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Official Sensit API library client for node.js",
   "author": "Christopher Waddington <cwadding@gmail.com> (http://github.com/cwadding)",
   "homepage": "https://sensit.com",
